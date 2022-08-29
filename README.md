@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bryan, @BB23-ZA.
 - 👀 I’m interested in all fields of software development.
-- 🌱 I’m currently learning: Python, C#, Ethical hacking, SQL, Web development. 
+- 🌱 I’m currently learning: Python, C#, Linux, Ethical hacking, SQL and web development. 
 - 📫 You can reach me on email: BryanHBBowler@Gmail.com
 
 <!---
