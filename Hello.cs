@@ -6,9 +6,7 @@ namespace HelloWorld
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Hello World!"); 
-      Console.WriteLine("It's nice to meet you in C#")
-      Console.WriteLine("It's important to practice as much as possible")   
+      Console.WriteLine("Hello World!");
     }
   }
 }
